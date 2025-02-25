@@ -9,5 +9,11 @@ public class Main {
         fullName = lastname + ' ' + firstName + ' ' + middleName;
         System.out.println(fullName);
         System.out.println();
+
+        // Задача №2
+        System.out.println("Задача №2:");
+        System.out.println("Данные Ф.И.О. сотрудника для заполнения отчета - " + fullName.toUpperCase());
+        System.out.println();
+
     }
 }
